@@ -1,6 +1,6 @@
 <?php
 
-define("APP_DIR", "/Applications/XAMPP/xamppfiles/htdocs/ffarias.dev/angular-login/app");
+define("APP_DIR", __DIR__."/../../../app");
 
 
 class usersTest extends PHPUnit_Framework_TestCase{
